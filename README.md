@@ -13,4 +13,4 @@ A Beginner Level Desktop based 3D Game with 3 levels
 - User will play on the player cubes perspective.
 
 #### How to run the game directly: 
-- You can run the game directly by downloading `BOXRUN` folder. You will need to extract it and than inside the folder you will find BOXRUN.exe file. Clicking this file will take you to the game. Remember you need this whole folder to make it work without any other software support. And you can run this game only in windows version. 
+- You can run the game directly by going to `Executable,zip`. Download this and you will need to extract it and than inside that folder you will find BOXRUN.exe file. Clicking this file will take you to the game. Remember you need this whole folder to make it work without any other software support. And you can run this game only in windows version. 
